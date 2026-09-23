@@ -1,4 +1,5 @@
 parent-voice
+
 ParentVoice — calm voice companion for kids
 **Концепция голосового приложения для детей**
 
@@ -21,5 +22,6 @@ ParentVoice — calm voice companion for kids
 Родители детей 4–10 лет, которые хотят, чтобы гаджет поддерживал их влияние, а не конкурировал с ним.
 ## Статус
 Концепция. Прототип в планах.
+
 #Parenting #KidsTech #AssistiveTech #FamilyTech #AIforKids #ParentVoice
 #EdTech #ChildDevelopment #VoiceAI #DigitalParenting
