@@ -25,5 +25,3 @@
 ## Статус
 Концепция. Прототип в планах.
 
-#Parenting #KidsTech #AssistiveTech #FamilyTech #AIforKids #ParentVoice
-#EdTech #ChildDevelopment #VoiceAI #DigitalParenting
